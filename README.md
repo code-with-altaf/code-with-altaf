@@ -9,7 +9,7 @@ Building scalable SaaS products with clean UI & high performance
 
 ## 🔥 Contribution Activity (75+ commits)
 <div align="center">
-  <img src="https://ghchart.rshah.org/4CAF50/code-with-altaf" width="100%"/>
+<img src="https://ghchart.rshah.org/4CAF50:FFEB3B:FF5722:9C27B0:2196F3/code-with-altaf" width="100%"/>
 </div>
 
 ---
@@ -43,16 +43,20 @@ Building scalable SaaS products with clean UI & high performance
 
 ## 🌐 Connect
 <div align="center">
-<a href="https://adowise.in"><img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=react&logoColor=white"/></a>
+<a href="https://adowise.in"><img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=react&logoColor=white"/></a>
 <a href="https://linkedin.com/in/reachmohdaltaf"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/reachmohdaltaf"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="mailto:reachmohdaltaf@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 <div align="center">
-<sub>📫 reachmohdaltaf@gmail.com | 📱 +91 7876637551</sub>
+**📫 reachmohdaltaf@gmail.com | 📱 +91 7876637551**
 </div>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=code-with-altaf&color=4caf50&style=for-the-badge"/>
 </div>
+
+---
+**Made with ❤️ from Himachal Pradesh**
 EOF
