@@ -10,8 +10,7 @@ Building scalable SaaS products with clean UI & high performance
 
 ## 🔥 2025 Contribution Graph (75+ commits!)
 <div align="center">
-  <img src="https://ghchart.rshah.org/245:61DAFB/code-with-altaf" width="100%"/>
-</div>
+<img src="https://avatars.githubusercontent.com/u/178491093?s=400&u=54809017fc5993a4448a1a1ecb1eb4dda2c315fa&v=4" width="120" style="border-radius: 50%;"/></div>
 
 ---
 
