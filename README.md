@@ -1,15 +1,13 @@
 cat > README.md << 'EOF'
-# 👋 Hi, I'm **Altaf**!
+# 👋 Hi, I'm **Altaf**
 
-**Full-stack developer & Adowise Founder**  
+**Full-stack developer**  
 📍 Himachal Pradesh, India  
 Building scalable SaaS products with clean UI & high performance
 
-<img src="https://avatars.githubusercontent.com/u/178491093?s=400&u=54809017fc5993a4448a1a1ecb1eb4dda2c315fa&v=4" width="120" style="border-radius: 50%;"/>
-
 ---
 
-## 🔥 Contribution Activity (75+ commits!)
+## 🔥 Contribution Activity (75+ commits)
 <div align="center">
   <img src="https://ghchart.rshah.org/4CAF50/code-with-altaf" width="100%"/>
 </div>
@@ -32,13 +30,13 @@ Building scalable SaaS products with clean UI & high performance
 
 ## 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=code-with-altaf&show_icons=true&theme=radical" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-altaf&layout=compact&theme=radical" width="41%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=code-with-altaf&show_icons=true&theme=radical&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-altaf&layout=compact&theme=radical&hide_border=true" width="41%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-altaf&theme=radical" width="48%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=code-with-altaf&theme=radical" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-altaf&theme=radical&hide_border=true" width="48%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=code-with-altaf&theme=radical&no-frame=true&no-bg=true" width="48%"/>
 </div>
 
 ---
@@ -54,7 +52,7 @@ Building scalable SaaS products with clean UI & high performance
 <sub>📫 reachmohdaltaf@gmail.com | 📱 +91 7876637551</sub>
 </div>
 
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=code-with-altaf&color=4caf50&style=for-the-badge"/>
-
-**⭐ Thanks for visiting!**
+</div>
 EOF
