@@ -26,16 +26,6 @@ Building scalable SaaS products with clean UI & high performance
 ---
 
 
-## 🎓 Education
-
-| Degree | Institution | Years |
-|--------|-------------|-------|
-| **BCA** | SGGSJ Govt. College | 2021-2024 |
-| **12th** | Bibi Jeet Kaur College | 2019-2021 |
-| **10th** | The Scholars Home | 2009-2019 |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
