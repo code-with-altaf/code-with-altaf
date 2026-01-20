@@ -10,15 +10,6 @@ Building scalable SaaS products with clean UI & high performance
 
 ---
 
-## 🚀 Featured Projects (Live 🚀)
-
-| Project | Description | Tech Stack | 📱 Live Demo |
-|---------|-------------|------------|-------------|
-| **Invozo** | Professional invoice generator | Next.js, TypeScript, Prisma | [![Invozo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://invozo-pges.vercel.app/generate) |
-| **Carelytics** | Clinic analytics dashboard | Next.js, MongoDB, Recharts | [![Carelytics](https://img.shields.io/badge/Live-Demo-brightgreen)](https://carelytics-three.vercel.app/) |
-| **WryTit** | Modern blogging platform | Next.js, Tailwind, Shadcn | [![WryTit](https://img.shields.io/badge/Live-Demo-brightgreen)](https://wrytit.vercel.app) |
-
----
 
 ## 🛠️ Tech Stack
 
@@ -36,25 +27,6 @@ Building scalable SaaS products with clean UI & high performance
 
 ---
 
-## 💼 Work Experience
-
-### 🏢 **Adowise** *(Jan 2025 - Present)*
-**Founder & Full-Stack Developer**  
-- Building mentorship platform with React, Redux, Express.js, MongoDB  
-- Secure authentication, booking workflows, role-based access
-
-### 💻 **Tradylytics** *(Jan 2025 - Dec 2025)*
-**Full-Stack Developer Intern** *(Remote)*  
-- Designed modern UI components with Shadcn UI  
-- Implemented responsive layouts & integrated charts  
-- Improved overall UX
-
-### 🔧 **Explorin** *(Sep 2024 - Nov 2024)*
-**MERN Stack Developer** *(Roorkee, India)*  
-- Optimized database queries & API performance  
-- Scaled backend systems for production
-
----
 
 ## 🎓 Education
 
@@ -63,15 +35,6 @@ Building scalable SaaS products with clean UI & high performance
 | **BCA** | SGGSJ Govt. College | 2021-2024 |
 | **12th** | Bibi Jeet Kaur College | 2019-2021 |
 | **10th** | The Scholars Home | 2009-2019 |
-
----
-
-## ✨ Other Projects
-
-- **Briefly.ai** - AI-powered PDF summarizer (Next.js + OpenAI)
-- **WordFlow** - Blogging platform (Next.js + GraphQL + Prisma)
-- **Connectify** - Social platform (React + Express + MongoDB)
-- **JobGo** - Job platform (Next.js + MongoDB + Redux)
 
 ---
 
