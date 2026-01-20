@@ -29,13 +29,10 @@
 </div>
 
 <div align="center">
-
 <a href="https://github.com/code-with-altaf?tab=repositories">
   <img src="https://img.shields.io/badge/GitHub_Stats-FF69B4?style=for-the-badge&logo=github&logoColor=white&labelColor=FF1493" alt="GitHub Stats" />
 </a>
-
-<a href="mailto:reachmohdaltaf@gmail.com?subject=Hey%20Altaf!%20Loved%20your%20GitHub%20profile!">
-  <img src="https://img.shields.io/badge/Say%20Hi!-FF69B4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF1493" alt="Say Hi!" />
+<a href="mailto:reachmohdaltaf@gmail.com?subject=👀%20Profile%20Visit:%20{{title}}&body=Hey%20Altaf!%20Just%20checked%20your%20awesome%20profile!" />
+  <img src="https://img.shields.io/badge/Ping%20Me!-FF69B4?style=for-the-badge&logo=bell&logoColor=white&labelColor=FF1493" alt="Ping Me!" />
 </a>
-
 </div>
