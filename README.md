@@ -5,13 +5,14 @@
 📍 Himachal Pradesh, India  
 Building scalable SaaS products with clean UI & high performance
 
-
 ---
 
-## 🔥 2025 Contribution Graph (75+ commits!)
+## 🔥 Contribution Activity (75+ commits!)
 <div align="center">
-  <img src="https://ghchart.rshah.org/007ACC:4CAF50:FF5722/code-with-altaf" width="100%"/>
+  <img src="https://ghchart.rshah.org/4CAF50/code-with-altaf" width="100%"/>
 </div>
+
+---
 
 ## 🛠️ Tech Stack
 
