@@ -2,10 +2,8 @@
 
 # 👋 Hi, I'm **Altaf**!
 
-<img src="https://avatars.githubusercontent.com/u/178491093?s=400&u=54809017fc5993a4448a1a1ecb1eb4dda2c315fa&v=4" alt="Altaf" width="150" style="border-radius: 50%;"/>
-
 **Full-stack developer & Adowise Founder**  
-📍 Baddi, Himachal Pradesh, India  
+📍 Himachal Pradesh, India  
 Building scalable SaaS products with clean UI & high performance
 
 ---
