@@ -7,20 +7,12 @@ cat > README.md << 'EOF'
 
 **Full-stack developer**  
 📍 Himachal Pradesh, India  
-Building scalable SaaS products with clean UI & high performance
 
 ---
 
-## 🐼 **Animated Panda Corner**
+## 🎮 **Snake Game** (Your 75+ Contributions!)
 <div align="center">
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footer.svg" width="300"/>
-</div>
-
----
-
-## 🔥 Contribution Activity (75+ commits)
-<div align="center">
-<img src="https://ghchart.rshah.org/4CAF50:FFEB3B:FF5722:9C27B0:2196F3/code-with-altaf" width="100%"/>
+<img src="https://github-readme-snake-svg.vercel.app/api?username=code-with-altaf&palette=github-dark" width="100%"/>
 </div>
 
 ---
@@ -45,18 +37,12 @@ Building scalable SaaS products with clean UI & high performance
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-altaf&layout=compact&theme=radical&hide_border=true" width="41%"/>
 </div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-altaf&theme=radical&hide_border=true" width="48%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=code-with-altaf&theme=radical&no-frame=true&no-bg=true" width="48%"/>
-</div>
-
 ---
 
 ## 🌐 Connect
 <div align="center">
 <a href="https://adowise.in"><img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=react&logoColor=white"/></a>
 <a href="https://linkedin.com/in/reachmohdaltaf"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/reachmohdaltaf"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="mailto:reachmohdaltaf@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
@@ -66,6 +52,5 @@ Building scalable SaaS products with clean UI & high performance
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=code-with-altaf&color=4caf50&style=for-the-badge"/>
-🐼 **Made with love from Himachal!**
 </div>
 EOF
