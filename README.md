@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Altaf**!
 
-**Full-stack developer & Adowise Founder**  
+**Full-stack developer**  
 📍 Himachal Pradesh, India  
 Building scalable SaaS products with clean UI & high performance
 
