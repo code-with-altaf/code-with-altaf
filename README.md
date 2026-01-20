@@ -1,9 +1,10 @@
 # 👨‍💻 Altaf
 **Full-Stack Developer**
 
+<div align="center">
+
 ## 🛠️ Tech Stack
 
-<div align="center">
 ### Frontend
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> 
@@ -23,6 +24,7 @@
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Zod-00D4AA?style=for-the-badge&logo=zod&logoColor=white" /> 
 <img src="https://img.shields.io/badge/WebSockets-00D4AA?style=for-the-badge&logo=websocket&logoColor=white" />
+
 </div>
 
 <div align="center">
@@ -40,8 +42,8 @@
   <img src="https://img.shields.io/badge/WhatsApp%20Ping!-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-<!-- Buy Me a Ko-fi -->
-<a href="https://ko-fi.com/YOUR_KOFI_USERNAME">
+<!-- Buy Me a Ko-fi (LIVE!) -->
+<a href="https://ko-fi.com/codewithaltaf">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FF5F5F?style=for-the-badge&logo=ko-fi&logoColor=white" />
 </a>
 
