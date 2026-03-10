@@ -3,4 +3,4 @@
 - I build web apps that stand out  
 - Tiny solo web dev studio  
 - Building web apps and projects  
-- Tech, projects and shitposting at [Twitter](https://twitter.com/reachmohdaltaf)
+- Tech, projects and shitposting at [Twitter](https://twitter.com/codewithaltaf)
